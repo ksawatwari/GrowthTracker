@@ -1,0 +1,6 @@
+{
+  "name": "Nostalgic Growth Tracker",
+  "description": "A nature-inspired, nostalgic personal growth tracker with gamification elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
